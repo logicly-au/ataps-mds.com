@@ -1,0 +1,21 @@
+# Permalinks
+permalink:           pretty
+
+# Setup
+title:               ATAPS Minimum Data Set
+url:                 https://ataps-mds.com
+
+# About/contact
+author:
+  name:              'Strategic Data'
+  email:             'support@ataps-mds.com'
+
+exclude: [node_modules,vendor,src,gulpfile.js,bower_components,bower.json,README.md,static,package.json,'*.sh',nginx.d]
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
+source:      _source
+destination: _deploy
