@@ -2,8 +2,8 @@
 
 set -e # halt script on error
 
-key=$encrypted_df59e13927ec_key
-iv=$encrypted_df59e13927ec_iv
+key=$encrypted_63d79473a3d5_key
+iv=$encrypted_63d79473a3d5_iv
 
 openssl aes-256-cbc \
   -K $key \
