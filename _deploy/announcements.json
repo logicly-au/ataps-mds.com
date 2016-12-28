@@ -1,440 +1,9 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <title>Announcements</title>
-  <meta name="description" content="" />
-  <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
-  <meta name="generator" content="ProcssWire 2.3.0" />
-  <link rel="stylesheet" type="text/css" href="../../site/templates/styles/styles.css" />
-  <link rel="shortcut icon" href="../../favicon.ico" />
+[
 
-  <!--[if IE]>
-    <style type="text/css">
-          .float-left-patient {
-            float:left;
-            background-color:#fff;
-            padding:.5em;
-            margin-right:3.5em;
-            width:auto;
-          }
-      </style>
-  <![endif]-->	
-
-  <!--[if lt IE 9]>
-    <script src="http://ie7-js.googlecode.com/svn/version/2.1(beta4)/IE9.js"></script>
-  <![endif]-->
-
-  <link href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8/themes/base/jquery-ui.css" rel="stylesheet" type="text/css" />
-  <script type="text/javascript" src="../../site/templates/scripts/jquery-1.9.0.min.js"></script>
-  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8/jquery-ui.min.js"></script>
-
-    <!-- Added for superfish -->
-  <link rel="stylesheet" href="../../site/templates/styles/superfish.css" media="screen" />
-  <link rel="stylesheet" href="../../site/templates/styles/superfish-vertical.css" media="screen" />
-  <script type="text/javascript" src="../../site/templates/scripts/hoverIntent.js"></script>
-  <script type="text/javascript" src="../../site/templates/scripts/superfish.js"></script>
-
-  <script type="text/javascript">
-  // initialise plugins
-  jQuery(function(){
-    jQuery('#boimhc-menu').superfish({
-      //useClick: true
-    });
-  });
-  </script>
-
-   <!-- Added for dotdotdot... -->
-   <script type="text/javascript" src="../../site/templates/scripts/jquery.dotdotdot-1.5.9.js"></script>
-
-   <script type="text/javascript">
-   $(document).ready(function() {
-      if ( document.getElementById('updates-text') ) {
-         $('#updates-text').dotdotdot({
-            ellipsis: '... ',
-            after: '#read-more',
-            wrap: 'word',
-         });
-      };
-   });
-   </script>
-
-  <link rel="stylesheet" type="text/css" href="../../site/templates/styles/boimhc.css" />
-
-  <script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-239007-3']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
-
-  <!-- Added for Table of Contents jQuery Plugin -->
-  <script src="../../site/templates/scripts/jquery.tableofcontents.min.js" type="text/javascript" charset="utf-8"></script>
-
-  <script type="text/javascript" charset="utf-8">
-     $(document).ready(function(){ $("#toc").tableOfContents(); });
-
-     $(document).ready(function(){ 
-       $("#toc").tableOfContents(
-          null,                // Default scoping
-          { 
-             startLevel: 2,    // H2 and up
-             depth: 2          // H2 to H3
-          }
-        ); 
-     });
-  </script>
-
-  <!-- Added for CSVToTable jQuery plugin -->
-  <script src="../../site/templates/scripts/jquery.csvToTable.js" type="text/javascript" charset="utf-8"></script>
-  <script src="../../site/templates/scripts/jquery.tablesorter.min.js" type="text/javascript" charset="utf-8"></script>
-
-  <!--
-        This website is powered by ProcessWire CMF/CMS.
-	ProcessWire is a free open source content management framework licensed under the GNU GPL.
-	ProcessWire is Copyright 2012 by Ryan Cramer / Ryan Cramer Design, LLC.
-	Learn more about ProcessWire at: http://processwire.com
-  -->
-
- </head>
-
-<body>
-   <div id="jumplinks">
-        <a href="../mds-updates/index.html#main-content">Skip to main content</a>
-   </div>
-   <div id="outer_wrapper">
-     <div id="inner_wrapper">
-        <div class="identify">
-          <div id="header-logo">
-            <div id='logo'><div><a id='main_title' href='../../index.html'>Access to Allied Psychological Services</a></div><div><a id='subtitle' href='../../index.html'>Evaluation Support</a></div></div>            <form id='search_form' action='https://ataps-mds.com/search/' method='get'>
-              <input type='text' name='q' id='search_query' placeholder='Search...' value='' />
-              <button type='submit' id='search_submit'>Search</button>
-            </form>
-          </div>
-          <div id="nav">
-            <ul class='sf-menu ' id='boimhc-menu'>
-    <li><a href='../../index.html' title='Home'>Home</a>
-    <li><a href='../index.html' title='Minimum Dataset'>Minimum Dataset</a>
-<ul class='sf-menu '>
-    <li><a href='../mds-updates/index.html' title='Announcements'>Announcements</a>
-<ul class='sf-menu '>
-    <li><a href='2016-06-01/index.html' title='1st of June, 2016 - UPDATE regarding data collection expectations – ATAPS/MHSRRA MDS and the PMHC MDS [SEC=UNCLASSIFIED]'>1st of June, 2016 - UPDATE regarding data collection expectations – ATAPS/MHSRRA MDS and the PMHC MDS [SEC=UNCLASSIFIED]</a>
-</li>
-    <li><a href='27-may-2016-standard-outcome-measures/index.html' title='27 May 2016 - Standard outcome measures'>27 May 2016 - Standard outcome measures</a>
-</li>
-    <li><a href='2016-02-26/index.html' title='26 February 2016 - MHSRRA Referrals into the MDS'>26 February 2016 - MHSRRA Referrals into the MDS</a>
-</li>
-    <li><a href='2016-01-27/index.html' title='27 January 2016 - MHSRRA uploads to the ATAPS MDS'>27 January 2016 - MHSRRA uploads to the ATAPS MDS</a>
-</li>
-    <li><a href='2016-01-22/index.html' title='22nd January 2016 - Update to the ATAPS minimum dataset - January 2016'>22nd January 2016 - Update to the ATAPS minimum dataset - January 2016</a>
-</li>
-    <li><a href='https://ataps-mds.com/mds/announcements/all/' title='All Announcements'>All Announcements</a>
-</ul>
-</li>
-    <li><a href='../user-documentation/index.html' title='User Documentation'>User Documentation</a>
-<ul class='sf-menu '>
-    <li><a href='../help/index.html' title='User Guide'>User Guide</a>
-<ul class='sf-menu '>
-    <li><a href='../user-documentation/user-guide/home/index.html' title='Home'>Home</a>
-</li>
-    <li><a href='../help/patients/index.html' title='Patients'>Patients</a>
-</li>
-    <li><a href='../user-documentation/user-guide/referrals/index.html' title='Referrals'>Referrals</a>
-</li>
-    <li><a href='../user-documentation/user-guide/sessions/index.html' title='Sessions'>Sessions</a>
-</li>
-    <li><a href='../help/outcome-measures/index.html' title='Outcome Measures'>Outcome Measures</a>
-</li>
-    <li><a href='../help/referrers-and-mhpros/index.html' title='Referrers and MHPros'>Referrers and MHPros</a>
-</li>
-    <li><a href='../help/file-transfers/index.html' title='File Transfers (Downloads and Uploads)'>File Transfers (Downloads and Uploads)</a>
-</li>
-    <li><a href='../user-documentation/user-guide/reports/index.html' title='Reports'>Reports</a>
-</li>
-    <li><a href='../user-documentation/user-guide/admin/index.html' title='Administration'>Administration</a>
-</li>
-    <li><a href='../help/user-management/index.html' title='User Management'>User Management</a>
-</li>
-    <li><a href='../user-documentation/user-guide/select-outcome-measures/index.html' title='Selecting Outcome Measures'>Selecting Outcome Measures</a>
-</li>
-    <li><a href='../user-documentation/user-guide/divisions/index.html' title='Divisions'>Divisions</a>
-</li>
-    <li><a href='../user-documentation/user-guide/motd/index.html' title='Message of the Day'>Message of the Day</a>
-</li>
-    <li><a href='../user-documentation/user-guide/ataps-help-mental-health-professional-data/index.html' title='Mental Health Professional Data'>Mental Health Professional Data</a>
-</li>
-</ul>
-</li>
-    <li><a href='../user-documentation/faq/index.html' title='Frequently Asked Questions (FAQs)'>Frequently Asked Questions (FAQs)</a>
-</li>
-    <li><a href='../user-documentation/upload-checklist/index.html' title='Upload Checklist'>Upload Checklist</a>
-</li>
-    <li><a href='../user-documentation/upload-troubleshooting/index.html' title='Upload Troubleshooting'>Upload Troubleshooting</a>
-</li>
-    <li><a href='../mds-updates/slk/index.html' title='Statistical Linkages Key (SLK)'>Statistical Linkages Key (SLK)</a>
-</li>
-    <li><a href='../user-documentation/operational-guidelines-attachment-g/index.html' title='Operational Guidelines - Attachment G'>Operational Guidelines - Attachment G</a>
-<ul class='sf-menu '>
-    <li><a href='../user-documentation/operational-guidelines-attachment-g/referrer-data-items/index.html' title='Referrer Data Items'>Referrer Data Items</a>
-</li>
-    <li><a href='../user-documentation/operational-guidelines-attachment-g/mhp-data-items/index.html' title='MHP Data Items'>MHP Data Items</a>
-</li>
-</ul>
-</li>
-    <li><a href='../user-documentation/recording-of-ineligible-patients-at-triage-stage/index.html' title='Recording of ineligible patients at triage stage'>Recording of ineligible patients at triage stage</a>
-</li>
-    <li><a href='../user-documentation/unique-identification-of-session-records/index.html' title='Unique identification of sessions for uploads'>Unique identification of sessions for uploads</a>
-</li>
-    <li><a href='../user-documentation/transition-of-mls-to-phns/index.html' title='Transition of MLs to PHNs'>Transition of MLs to PHNs</a>
-</li>
-    <li><a href='../user-documentation/assignment-and-management-of-client-and-provider-identifiers/index.html' title='Assignment and management of client and provider identifiers'>Assignment and management of client and provider identifiers</a>
-</li>
-    <li><a href='../user-documentation/collection-of-mhsrra-data/index.html' title='Collection of MHSRRA data'>Collection of MHSRRA data</a>
-</li>
-</ul>
-</li>
-    <li><a href='../technical-documentation/index.html' title='Technical Documentation'>Technical Documentation</a>
-<ul class='sf-menu '>
-    <li><a href='../technical-documentation/file-format/index.html' title='Upload File Format'>Upload File Format</a>
-</li>
-    <li><a href='../technical-documentation/upload-file-format-change-log/index.html' title='Upload File Format Change Log'>Upload File Format Change Log</a>
-</li>
-    <li><a href='../technical-documentation/field-types/index.html' title='Field Types'>Field Types</a>
-<ul class='sf-menu '>
-    <li><a href='../technical-documentation/field-types/boolean/index.html' title='Boolean'>Boolean</a>
-</li>
-    <li><a href='../technical-documentation/field-types/date/index.html' title='Date'>Date</a>
-</li>
-    <li><a href='../technical-documentation/field-types/conclusion/index.html' title='FK - Conclusion'>FK - Conclusion</a>
-</li>
-    <li><a href='../technical-documentation/field-types/duration/index.html' title='FK - Duration'>FK - Duration</a>
-</li>
-    <li><a href='../technical-documentation/field-types/education_level/index.html' title='FK - Education Level'>FK - Education Level</a>
-</li>
-    <li><a href='../technical-documentation/field-types/english_level/index.html' title='FK - English Level'>FK - English Level</a>
-</li>
-    <li><a href='../technical-documentation/field-types/gender/index.html' title='FK - Gender'>FK - Gender</a>
-</li>
-    <li><a href='../technical-documentation/field-types/language/index.html' title='FK - Language'>FK - Language</a>
-</li>
-    <li><a href='../technical-documentation/field-types/patient/index.html' title='FK - Patient Key'>FK - Patient Key</a>
-</li>
-    <li><a href='../technical-documentation/field-types/program/index.html' title='FK - Program'>FK - Program</a>
-</li>
-    <li><a href='../technical-documentation/field-types/referrer_mhpro_code/index.html' title='FK - Referrer or MHPro Code'>FK - Referrer or MHPro Code</a>
-</li>
-    <li><a href='../technical-documentation/field-types/referrer_type/index.html' title='FK - Referrer Type'>FK - Referrer Type</a>
-</li>
-    <li><a href='../technical-documentation/field-types/session_modality/index.html' title='FK - Session Modality'>FK - Session Modality</a>
-</li>
-    <li><a href='../technical-documentation/field-types/session_type/index.html' title='FK - Session Type'>FK - Session Type</a>
-</li>
-    <li><a href='../technical-documentation/field-types/yes_no_unknown/index.html' title='FK - YesNoUnknown'>FK - YesNoUnknown</a>
-</li>
-    <li><a href='../technical-documentation/field-types/identifier/index.html' title='Identifier'>Identifier</a>
-</li>
-    <li><a href='../technical-documentation/field-types/integer/index.html' title='Integer'>Integer</a>
-</li>
-    <li><a href='../technical-documentation/field-types/number/index.html' title='Number'>Number</a>
-</li>
-    <li><a href='../technical-documentation/field-types/past_date/index.html' title='Past Date'>Past Date</a>
-</li>
-    <li><a href='../technical-documentation/field-types/postcode/index.html' title='Postcode'>Postcode</a>
-</li>
-    <li><a href='../technical-documentation/field-types/slk/index.html' title='Statistical Linkages Key'>Statistical Linkages Key</a>
-</li>
-    <li><a href='../technical-documentation/field-types/text/index.html' title='Text'>Text</a>
-</li>
-    <li><a href='../technical-documentation/field-types/year/index.html' title='Year'>Year</a>
-</li>
-</ul>
-</li>
-    <li><a href='../technical-documentation/field-types-change-log/index.html' title='Field Types Change Log'>Field Types Change Log</a>
-</li>
-    <li><a href='../technical-documentation/historical-patient-mapping/index.html' title='Historical patient mapping'>Historical patient mapping</a>
-</li>
-    <li><a href='../technical-documentation/slk-test-data-set/index.html' title='SLK Test Data Set'>SLK Test Data Set</a>
-</li>
-    <li><a href='../technical-documentation/uploading-mhsrra-data/index.html' title='Uploading MHSRRA data'>Uploading MHSRRA data</a>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-    <li><a href='../../program-evalulation/index.html' title='Program Evalulation'>Program Evalulation</a>
-</li>
-    <li><a href='../../contact-us/index.html' title='Contact Us'>Contact Us</a>
-</li>
-    <li><a href='../../site-map/index.html' title='Site Map'>Site Map</a>
-</li>
-    <li><a href=https://ataps-mds.net/ title='MDS Login'>MDS Login</a>
-</ul>
-          </div>
-        </div>
-<div id='content'>
-  <div id='main-content'>
-    <div class="message">
-      Note that there is a handy link to the MDS login page in the menu at the top right.
-    </div>
-    <ul>
-  
-    <li>
-      <a href="#/mds/mds-updates/2016-06-01-UPDATE-regarding-data-collection-expectations/">Update Regarding Data Collection Expectations</a><span> | June 01, 2016</span>
-    </li>
-  
-    <li>
-      <a href="#/mds/mds-updates/2016-05-27-standard-outcome-measures/">Standard Outcome Measures</a><span> | May 27, 2016</span>
-    </li>
-  
-    <li>
-      <a href="#/mds/mds-updates/2016-02-26-MHSRRA-Referrals-into-the-MDS/">Mhsrra Referrals Into The Mds</a><span> | February 26, 2016</span>
-    </li>
-  
-    <li>
-      <a href="#/mds/mds-updates/2016-01-27-MHSRRA-uploads-to-the-ATAPS-MDS/">Mhsrra Uploads To The Ataps Mds</a><span> | January 27, 2016</span>
-    </li>
-  
-    <li>
-      <a href="#/mds/mds-updates/2016-01-22-Update-to-the-ATAPS-minimum-dataset-January-2016/">Update To The Ataps Minimum Dataset   January 2016</a><span> | January 22, 2016</span>
-    </li>
-  
-    <li>
-      <a href="#/mds/mds-updates/2015-12-16-mhsrra-updates/">Mhsrra Updates</a><span> | December 16, 2015</span>
-    </li>
-  
-    <li>
-      <a href="#/mds/mds-updates/2015-12-11-mds-outage/">Mds Outage</a><span> | December 11, 2015</span>
-    </li>
-  
-    <li>
-      <a href="#/mds/mds-updates/2015-12-01-Assignment-and-management-of-client-and-provider-identifier-for-ATAPS-data-collection/">Assignment And Management Of Client And Provider Identifier For Ataps Data Collection</a><span> | December 01, 2015</span>
-    </li>
-  
-    <li>
-      <a href="#/mds/mds-updates/2015-08-03-mds-update/">Mds Update</a><span> | August 03, 2015</span>
-    </li>
-  
-    <li>
-      <a href="#/mds/mds-updates/2015-06-22-ML-to-PHN-Transition/">Ml To Phn Transition</a><span> | June 22, 2015</span>
-    </li>
-  
-    <li>
-      <a href="#/mds/mds-updates/2015-04-26-mds-update/">Mds Update</a><span> | April 26, 2015</span>
-    </li>
-  
-    <li>
-      <a href="#/mds/mds-updates/2015-03-24-persistent-identifiers-and-recording-of-triage-activity/">Persistent Identifiers And Recording Of Triage Activity</a><span> | March 24, 2015</span>
-    </li>
-  
-    <li>
-      <a href="#/mds/mds-updates/2015-03-03-ensuring-your-data-is-up-to-date-on-the-ataps-mds/">Ensuring Your Data Is Up To Date On The Ataps Mds</a><span> | March 03, 2015</span>
-    </li>
-  
-    <li>
-      <a href="#/mds/mds-updates/2014-08-01-ATAPS-evaluation-report/">Ataps Evaluation Report</a><span> | August 01, 2014</span>
-    </li>
-  
-    <li>
-      <a href="#/mds/mds-updates/2014-07-14-Improved-validation-checks-for-file-uploads/">Improved Validation Checks For File Uploads</a><span> | July 14, 2014</span>
-    </li>
-  
-    <li>
-      <a href="#/mds/mds-updates/2014-05-23-Reminder-that-Copayment-field-is-to-become-mandatory-in-the-ATAPS-MDS/">Reminder That Copayment Field Is To Become Mandatory In The Ataps Mds</a><span> | May 23, 2014</span>
-    </li>
-  
-    <li>
-      <a href="#/mds/mds-updates/2014-04-29-Ensuring-your-data-is-up-to-date-on-the-ATAPS-MDS/">Ensuring Your Data Is Up To Date On The Ataps Mds</a><span> | April 29, 2014</span>
-    </li>
-  
-    <li>
-      <a href="#/mds/mds-updates/2014-04-09-Copayment-field-to-become-mandatory-in-the-ATAPS-MDS/">Copayment Field to Become Mandatory In The Ataps Mds</a><span> | April 09, 2014</span>
-    </li>
-  
-    <li>
-      <a href="#/mds/mds-updates/2014-03-26-MDS-Update/">Mds Update</a><span> | March 26, 2014</span>
-    </li>
-  
-    <li>
-      <a href="#/mds/mds-updates/2014-02-21-MDS-Update/">Mds Update</a><span> | February 21, 2014</span>
-    </li>
-  
-    <li>
-      <a href="#/mds/mds-updates/2014-02-12-MDS-Update/">Mds Update</a><span> | February 12, 2014</span>
-    </li>
-  
-    <li>
-      <a href="#/mds/mds-updates/2013-11-21-MDS-Update/">Mds Update</a><span> | November 21, 2013</span>
-    </li>
-  
-    <li>
-      <a href="#/mds/mds-updates/2013-10-30-Mental-Health-Workforce-Data/">Mental Health Workforce Data</a><span> | October 30, 2013</span>
-    </li>
-  
-    <li>
-      <a href="#/mds/mds-updates/2013-09-25-MDS-Update/">Mds Update</a><span> | September 25, 2013</span>
-    </li>
-  
-    <li>
-      <a href="#/mds/mds-updates/2013-08-15-Change-of-ATAPS-web-address-and-support-email-address/">Change Of Ataps Web Address And Support Email Address</a><span> | August 15, 2013</span>
-    </li>
-  
-    <li>
-      <a href="#/mds/mds-updates/2013-07-30-MDS-Update/">Mds Update</a><span> | July 30, 2013</span>
-    </li>
-  
-    <li>
-      <a href="#/mds/mds-updates/2013-07-10-MDS-Update/">Mds Update</a><span> | July 10, 2013</span>
-    </li>
-  
-    <li>
-      <a href="#/mds/mds-updates/2013-06-20-MDS-Update/">Mds Update</a><span> | June 20, 2013</span>
-    </li>
-  
-    <li>
-      <a href="#/mds/mds-updates/2013-06-12-MDS-Update/">Mds Update</a><span> | June 12, 2013</span>
-    </li>
-  
-    <li>
-      <a href="#/mds/mds-updates/2013-06-01-MDS-Update/">Mds Update</a><span> | June 01, 2013</span>
-    </li>
-  
-    <li>
-      <a href="#/mds/mds-updates/2013-05-17-MDS-Update-Alignment-of-the-MDS-with-ATAPS-Operational-Guidelines-and-new-reports/">Mds Update   Alignment Of The Mds With Ataps operational guidelines and new reports</a><span> | May 17, 2013</span>
-    </li>
-  
-    <li>
-      <a href="#/mds/mds-updates/2013-05-01-MDS-Update-Encryption-of-SLK/">Mds Update   Encryption Of Slk</a><span> | May 01, 2013</span>
-    </li>
-  
-    <li>
-      <a href="#/mds/mds-updates/2013-04-10-Postcodes-and-No-Show-to-become-mandatory-items/">Postcodes And No Show To Become Mandatory Items</a><span> | April 10, 2013</span>
-    </li>
-  
-    <li>
-      <a href="#/mds/mds-updates/2012-11-09-MDS-Update-Addition-of-SLK-field/">Mds Update   Addition Of Slk Field</a><span> | November 09, 2012</span>
-    </li>
-  
-    <li>
-      <a href="#/mds/mds-updates/2011-07-13-look-it-up/">Look It Up</a><span> | July 13, 2011</span>
-    </li>
-  
-</ul>
-
-<hr />
-
-<div>
-<ul class="l-communications-ul">
-  
-    <li class="l-communications">
-    <div id="/mds/mds-updates/2016-06-01-UPDATE-regarding-data-collection-expectations/"><h3>Update Regarding Data Collection Expectations</h3></div>
-    <h4>June 01, 2016</h4>
-	<hr />
+	{
+		"title"    : "Update Regarding Data Collection Expectations",
+		"date"     : "June 01, 2016",
+		"content"  : "<hr />
 <h1>1st of June, 2016 - UPDATE regarding data collection expectations – ATAPS/MHSRRA MDS and the PMHC MDS [SEC=UNCLASSIFIED]</h1>
 <p>Hello all</p>
 <p>As Primary Health Networks (PHNs) are aware, work has commenced on the design of a Primary Mental Health Care Minimum Data Set (PMHC MDS) and associated reporting arrangements.  This does not represent a ground up development but rather builds on the foundation established by the current ATAPS/MHSRRA minimum data set. </p>
@@ -474,14 +43,13 @@
   Last modified: Wednesday, 01 June 2016, 12:06:02.
 </code></pre>
 </div>
+"
+	}
 
-	<hr />
-</li>
-  
-    <li class="l-communications">
-    <div id="/mds/mds-updates/2016-05-27-standard-outcome-measures/"><h3>Standard Outcome Measures</h3></div>
-    <h4>May 27, 2016</h4>
-	<hr />
+	{
+		"title"    : "Standard Outcome Measures",
+		"date"     : "May 27, 2016",
+		"content"  : "<hr />
 <h1>27 May 2016 - Standard outcome measures</h1>
 <p>MDS Update v4.197 was released on May 27, 2016.</p>
 <p>Currently there are many outcome measures available for use on the minimum dataset. Some of the measures are either inappropriate or not commonly used by providers. Pre and post treatment scores for a given consumer on less frequently used outcome measures are excluded in statistical analyses for the national evaluation. Further, there is poor completion of the existing outcome measures. This is particularly problematic since a measure pre and post treatment is required in order to analyse consumer outcomes.</p>
@@ -505,14 +73,13 @@
   Last modified: Friday, 27 May 2016, 12:46:58.   
 </code></pre>
 </div>
+"
+	}
 
-	<hr />
-</li>
-  
-    <li class="l-communications">
-    <div id="/mds/mds-updates/2016-02-26-MHSRRA-Referrals-into-the-MDS/"><h3>Mhsrra Referrals Into The Mds</h3></div>
-    <h4>February 26, 2016</h4>
-	<hr />
+	{
+		"title"    : "Mhsrra Referrals Into The Mds",
+		"date"     : "February 26, 2016",
+		"content"  : "<hr />
 <h1>26 February 2016 - MHSRRA Referrals into the MDS</h1>
 <p>One of the key features of the Mental Health Services in Rural and Remote Areas (MHSRRA) MHSRRA programme is flexibility in the delivery of services and the engagement of allied and nursing mental health professionals. In recognition of the difficulties experienced in some locations in readily accessing a medical practitioner, some flexibility in the timing of a medical practitioner's involvement may be considered in order for the client to commence to receive services while arrangements are made for the client to see a GP.</p>
 <p>However, all clients receiving services under the MHSRRA programme MUST obtain and have ongoing clinical oversight from a medical practitioner.</p>
@@ -521,14 +88,13 @@
   Last modified: Friday, 26 February 2016, 11:43:25. 
 </code></pre>
 </div>
+"
+	}
 
-	<hr />
-</li>
-  
-    <li class="l-communications">
-    <div id="/mds/mds-updates/2016-01-27-MHSRRA-uploads-to-the-ATAPS-MDS/"><h3>Mhsrra Uploads To The Ataps Mds</h3></div>
-    <h4>January 27, 2016</h4>
-	<hr />
+	{
+		"title"    : "Mhsrra Uploads To The Ataps Mds",
+		"date"     : "January 27, 2016",
+		"content"  : "<hr />
 <h1>27 January 2016 - MHSRRA uploads to the ATAPS MDS</h1>
 <p>The Department expects that all organisations providing MHSRRA services should be entering data from 1 January 2016. The Department doesn¹t expect organisations to back date data before 1 January 2016, however, if organisations hold the information and have capacity to enter the data, it would be advised that they enter data from 1 July 2015 to 31 December 2015.</p>
 <p>Referrals received before 1 January 2016 (or 1 July 2015 for those who have the capacity) should be included in the reported data only if sessions were delivered after 1 January 2016 (or 1 July 2015 for those who have the capacity).</p>
@@ -538,14 +104,13 @@
 </code></pre>
 </div>
 <p>&lt;/html&gt;</p>
+"
+	}
 
-	<hr />
-</li>
-  
-    <li class="l-communications">
-    <div id="/mds/mds-updates/2016-01-22-Update-to-the-ATAPS-minimum-dataset-January-2016/"><h3>Update To The Ataps Minimum Dataset   January 2016</h3></div>
-    <h4>January 22, 2016</h4>
-	<hr />
+	{
+		"title"    : "Update To The Ataps Minimum Dataset   January 2016",
+		"date"     : "January 22, 2016",
+		"content"  : "<hr />
 <h1>22nd January 2016 - Update to the ATAPS minimum dataset - January 2016</h1>
 <p>MDS Update v4.193 was released on January 21, 2016.</p>
 <p>Service Level matrix reports are now available under the 'Report selection' page.</p>
@@ -556,14 +121,13 @@
   Last modified: Friday, 22 January 2016, 09:41:40.  
 </code></pre>
 </div>
+"
+	}
 
-	<hr />
-</li>
-  
-    <li class="l-communications">
-    <div id="/mds/mds-updates/2015-12-16-mhsrra-updates/"><h3>Mhsrra Updates</h3></div>
-    <h4>December 16, 2015</h4>
-	
+	{
+		"title"    : "Mhsrra Updates",
+		"date"     : "December 16, 2015",
+		"content"  : "
 <div class="highlighter-rouge"><pre class="highlight"><code>&lt;h1&gt;16th December 2015 - MHSRRA Updates to the ATAPS minimum dataset - December 2015&lt;/h1&gt;
 </code></pre>
 </div>
@@ -576,14 +140,13 @@
   Last modified: Thursday, 17 December 2015, 16:24:04.  
 </code></pre>
 </div>
+"
+	}
 
-	<hr />
-</li>
-  
-    <li class="l-communications">
-    <div id="/mds/mds-updates/2015-12-11-mds-outage/"><h3>Mds Outage</h3></div>
-    <h4>December 11, 2015</h4>
-	<hr />
+	{
+		"title"    : "Mds Outage",
+		"date"     : "December 11, 2015",
+		"content"  : "<hr />
 <h1>11th December 2015 - MDS Outage Saturday 12th December from 10:30am - 3:00pm</h1>
 <p>Due to infrastructure upgrades, the ATAPS MDS will be unavailable during the window 10:30am - 3:00pm tomorrow, Saturday the 12th of December, 2015.</p>
 <p>If you are planning on using the MDS during this time, we advise you to complete your work before 10:30am.</p>
@@ -592,14 +155,13 @@
   Last modified: Friday, 11 December 2015, 12:10:56. 
 </code></pre>
 </div>
+"
+	}
 
-	<hr />
-</li>
-  
-    <li class="l-communications">
-    <div id="/mds/mds-updates/2015-12-01-Assignment-and-management-of-client-and-provider-identifier-for-ATAPS-data-collection/"><h3>Assignment And Management Of Client And Provider Identifier For Ataps Data Collection</h3></div>
-    <h4>December 01, 2015</h4>
-	<hr />
+	{
+		"title"    : "Assignment And Management Of Client And Provider Identifier For Ataps Data Collection",
+		"date"     : "December 01, 2015",
+		"content"  : "<hr />
 <h1>1st December 2015 - Assignment and management of client and provider identifiers for ATAPS data collection</h1>
 <p>Please find below a communication from the Department of Health and Strategic Data, who with the University of Melbourne, manage the reporting requirements for the Access to Allied Psychological Services (ATAPS) programme on behalf of the Department of Health.</p>
 <h2>ATAPS Data Inequity</h2>
@@ -617,14 +179,13 @@
   Last modified: Friday, 04 December 2015, 10:00:54.  
 </code></pre>
 </div>
+"
+	}
 
-	<hr />
-</li>
-  
-    <li class="l-communications">
-    <div id="/mds/mds-updates/2015-08-03-mds-update/"><h3>Mds Update</h3></div>
-    <h4>August 03, 2015</h4>
-	<hr />
+	{
+		"title"    : "Mds Update",
+		"date"     : "August 03, 2015",
+		"content"  : "<hr />
 <h1>3rd August 2015 - MDS Update</h1>
 <p>MDS Update v4.186 has been released.</p>
 <p>The following changes were implemented:</p>
@@ -641,14 +202,13 @@
   Last modified: Monday, 03 August 2015, 21:44:52.  
 </code></pre>
 </div>
+"
+	}
 
-	<hr />
-</li>
-  
-    <li class="l-communications">
-    <div id="/mds/mds-updates/2015-06-22-ML-to-PHN-Transition/"><h3>Ml To Phn Transition</h3></div>
-    <h4>June 22, 2015</h4>
-	<div class="highlighter-rouge"><pre class="highlight"><code>&lt;h1&gt;22 June 2015 - ML to PHN Transition&lt;/h1&gt;
+	{
+		"title"    : "Ml To Phn Transition",
+		"date"     : "June 22, 2015",
+		"content"  : "<div class="highlighter-rouge"><pre class="highlight"><code>&lt;h1&gt;22 June 2015 - ML to PHN Transition&lt;/h1&gt;
 </code></pre>
 </div>
 <p>Beginning the 1st of July a process to amalgamate Medicare Locals into 31 Primary Health Networks will begin. The MDS system will be made ready for the transition by that time. This <a href="../../user-documentation/transition-of-mls-to-phns/index.html">process</a> is expected to be largely complete by early August. The data required for the MDS will remain largely the same, notwithstanding minor changes that occur when changes to programs are made which require new data to be captured. <a href="../../user-documentation/transition-of-mls-to-phns/index.html">More information &gt;&gt;</a></p>
@@ -656,14 +216,13 @@
   Last modified: Wednesday, 15 July 2015, 15:41:40.
 </code></pre>
 </div>
+"
+	}
 
-	<hr />
-</li>
-  
-    <li class="l-communications">
-    <div id="/mds/mds-updates/2015-04-26-mds-update/"><h3>Mds Update</h3></div>
-    <h4>April 26, 2015</h4>
-	<hr />
+	{
+		"title"    : "Mds Update",
+		"date"     : "April 26, 2015",
+		"content"  : "<hr />
 <h1>26th April 2015 - MDS Update</h1>
 <p>MDS Update v4.175 has been released.</p>
 <p>The following new features will be available</p>
@@ -685,14 +244,13 @@
   Last modified: Sunday, 26 April 2015, 20:50:36.   
 </code></pre>
 </div>
+"
+	}
 
-	<hr />
-</li>
-  
-    <li class="l-communications">
-    <div id="/mds/mds-updates/2015-03-24-persistent-identifiers-and-recording-of-triage-activity/"><h3>Persistent Identifiers And Recording Of Triage Activity</h3></div>
-    <h4>March 24, 2015</h4>
-	<hr />
+	{
+		"title"    : "Persistent Identifiers And Recording Of Triage Activity",
+		"date"     : "March 24, 2015",
+		"content"  : "<hr />
 <h1>24th March 2015 - Persistent identifiers and recording of triage activity</h1>
 <h2>Importance of persistent client and provider identifiers</h2>
 <p>A number of requests for assistance have been raised regarding protocols when upgrading and/or moving Medicare Local’s databases to new systems.</p>
@@ -705,14 +263,13 @@
   Last modified: Tuesday, 24 March 2015, 11:29:09.  
 </code></pre>
 </div>
+"
+	}
 
-	<hr />
-</li>
-  
-    <li class="l-communications">
-    <div id="/mds/mds-updates/2015-03-03-ensuring-your-data-is-up-to-date-on-the-ataps-mds/"><h3>Ensuring Your Data Is Up To Date On The Ataps Mds</h3></div>
-    <h4>March 03, 2015</h4>
-	<hr />
+	{
+		"title"    : "Ensuring Your Data Is Up To Date On The Ataps Mds",
+		"date"     : "March 03, 2015",
+		"content"  : "<hr />
 <h1>2nd March 2015 - Ensuring your data is up to date on the ATAPS MDS</h1>
 <p>Dear Medicare Locals,</p>
 <p>Please be advised that data will be extracted for various evaluation reports on 30 April, 31 July and 30 September, 2015.</p>
@@ -723,14 +280,13 @@
   Last modified: Monday, 02 March 2015, 14:26:10.   
 </code></pre>
 </div>
+"
+	}
 
-	<hr />
-</li>
-  
-    <li class="l-communications">
-    <div id="/mds/mds-updates/2014-08-01-ATAPS-evaluation-report/"><h3>Ataps Evaluation Report</h3></div>
-    <h4>August 01, 2014</h4>
-	<hr />
+	{
+		"title"    : "Ataps Evaluation Report",
+		"date"     : "August 01, 2014",
+		"content"  : "<hr />
 <h1>1st of August 2014 - ATAPS evaluation report</h1>
 <p>Dear Medicare Locals,</p>
 <p>Our next evaluation report is due to the Department of Health on the 13th of October. We will be downloading the data for this report in early September. In order for the evaluation report to be as accurate as possible we ask that you please work to have your ATAPS data as up to date as possible in the MDS by the <strong>1st of September 2014</strong>. We will be evaluating <strong>all ATAPS data up until the end of June 2014</strong>.  </p>
@@ -741,14 +297,13 @@
   Last modified: Monday, 04 August 2014, 10:20:00. 
 </code></pre>
 </div>
+"
+	}
 
-	<hr />
-</li>
-  
-    <li class="l-communications">
-    <div id="/mds/mds-updates/2014-07-14-Improved-validation-checks-for-file-uploads/"><h3>Improved Validation Checks For File Uploads</h3></div>
-    <h4>July 14, 2014</h4>
-	<hr />
+	{
+		"title"    : "Improved Validation Checks For File Uploads",
+		"date"     : "July 14, 2014",
+		"content"  : "<hr />
 <h1>14th of July, 2014 - Improved validation checks for file uploads</h1>
 <p>Dear ATAPS Coordinator,</p>
 <p>We are seeking to improve the quality of ATAPS data and have therefore identified several areas where file upload checks can be improved. These are:</p>
@@ -764,14 +319,13 @@
   Last modified: Monday, 14 July 2014, 12:16:29.
 </code></pre>
 </div>
+"
+	}
 
-	<hr />
-</li>
-  
-    <li class="l-communications">
-    <div id="/mds/mds-updates/2014-05-23-Reminder-that-Copayment-field-is-to-become-mandatory-in-the-ATAPS-MDS/"><h3>Reminder That Copayment Field Is To Become Mandatory In The Ataps Mds</h3></div>
-    <h4>May 23, 2014</h4>
-	<hr />
+	{
+		"title"    : "Reminder That Copayment Field Is To Become Mandatory In The Ataps Mds",
+		"date"     : "May 23, 2014",
+		"content"  : "<hr />
 <h1>23rd of May, 2014 - Reminder that Copayment field is to become mandatory in the ATAPS MDS</h1>
 <p>Dear ATAPS Coordinator,</p>
 <p>This is a reminder that the Copayment field is to become mandatory in the ATAPS MDS from the 1st of June, 2014. This will only apply to sessions dated after the 1st of June, 2014. The copayment field will still be optional for sessions dated before the 1st of June, 2014. This change means that if no copayment was charged, $0 will need to be entered into the copayment field.</p>
@@ -783,14 +337,13 @@
   Last modified: Friday, 23 May 2014, 13:27:54.
 </code></pre>
 </div>
+"
+	}
 
-	<hr />
-</li>
-  
-    <li class="l-communications">
-    <div id="/mds/mds-updates/2014-04-29-Ensuring-your-data-is-up-to-date-on-the-ATAPS-MDS/"><h3>Ensuring Your Data Is Up To Date On The Ataps Mds</h3></div>
-    <h4>April 29, 2014</h4>
-	<hr />
+	{
+		"title"    : "Ensuring Your Data Is Up To Date On The Ataps Mds",
+		"date"     : "April 29, 2014",
+		"content"  : "<hr />
 <h1>29th of April 2014 - <strong>Ensuring your data is up to date on the ATAPS MDS&lt;</strong>/h1&gt;
 <p>Dear Medicare Local Project Officers,</p>
 <p>We have been requested by a number of people since our email this morning to clarify the dates of data to be included in the next report.</p>
@@ -805,14 +358,13 @@
 <p>The ATAPS Evaluation Team</p>    <div id="last-modified">
       Last modified: Tuesday, 29 April 2014, 16:10:15.
 </div></h1>
+"
+	}
 
-	<hr />
-</li>
-  
-    <li class="l-communications">
-    <div id="/mds/mds-updates/2014-04-09-Copayment-field-to-become-mandatory-in-the-ATAPS-MDS/"><h3>Copayment Field to Become Mandatory In The Ataps Mds</h3></div>
-    <h4>April 09, 2014</h4>
-	<hr />
+	{
+		"title"    : "Copayment Field to Become Mandatory In The Ataps Mds",
+		"date"     : "April 09, 2014",
+		"content"  : "<hr />
 <h1>9th of April, 2014 - Copayment field to become mandatory in the ATAPS MDS</h1>
 <p>Dear ATAPS Coordinator,</p>
 <p>Last week a message was issued to Medicare Local CEO's from the Department of Health advising that the Copayment field is to become mandatory in the ATAPS MDS from the 1st of June, 2014. This will only apply to sessions dated after the 1st of June, 2014. The copayment field will still be optional for sessions dated before the 1st of June, 2014. This change means that if no copayment was charged, $0 will need to be entered into the copayment field.</p>
@@ -825,14 +377,13 @@
   Last modified: Wednesday, 09 April 2014, 15:40:35.  
 </code></pre>
 </div>
+"
+	}
 
-	<hr />
-</li>
-  
-    <li class="l-communications">
-    <div id="/mds/mds-updates/2014-03-26-MDS-Update/"><h3>Mds Update</h3></div>
-    <h4>March 26, 2014</h4>
-	<hr />
+	{
+		"title"    : "Mds Update",
+		"date"     : "March 26, 2014",
+		"content"  : "<hr />
 <h1>26th of March, 2014 - MDS Update</h1>
 <p>MDS Update 4.166 and File uploads 0.62 has been released. Below is a summary of the changes:</p>
 <ul>
@@ -845,14 +396,13 @@
   Last modified: Wednesday, 26 March 2014, 09:16:24.   
 </code></pre>
 </div>
+"
+	}
 
-	<hr />
-</li>
-  
-    <li class="l-communications">
-    <div id="/mds/mds-updates/2014-02-21-MDS-Update/"><h3>Mds Update</h3></div>
-    <h4>February 21, 2014</h4>
-	<hr />
+	{
+		"title"    : "Mds Update",
+		"date"     : "February 21, 2014",
+		"content"  : "<hr />
 <h1>21st of February, 2014 - MDS Update</h1>
 <p>MDS Update 4.164 has been released. Below is a summary of the changes:</p>
 <ul>
@@ -863,14 +413,13 @@
   Last modified: Friday, 21 February 2014, 17:16:36. 
 </code></pre>
 </div>
+"
+	}
 
-	<hr />
-</li>
-  
-    <li class="l-communications">
-    <div id="/mds/mds-updates/2014-02-12-MDS-Update/"><h3>Mds Update</h3></div>
-    <h4>February 12, 2014</h4>
-	<hr />
+	{
+		"title"    : "Mds Update",
+		"date"     : "February 12, 2014",
+		"content"  : "<hr />
 <h1>12th of February 2014 - MDS Update</h1>
 <p>MDS Update 4.162 has been released. Below is a summary of the changes:</p>
 <ul>
@@ -880,14 +429,13 @@
   Last modified: Wednesday, 12 February 2014, 23:04:11.
 </code></pre>
 </div>
+"
+	}
 
-	<hr />
-</li>
-  
-    <li class="l-communications">
-    <div id="/mds/mds-updates/2013-11-21-MDS-Update/"><h3>Mds Update</h3></div>
-    <h4>November 21, 2013</h4>
-	<hr />
+	{
+		"title"    : "Mds Update",
+		"date"     : "November 21, 2013",
+		"content"  : "<hr />
 <h1>21st of November, 2013 - MDS Update</h1>
 <p>MDS Update for File uploads 0.60 has been released. Below is a summary of the changes:</p>
 <ul>
@@ -897,14 +445,13 @@
   Last modified: Thursday, 21 November 2013, 15:00:42.  
 </code></pre>
 </div>
+"
+	}
 
-	<hr />
-</li>
-  
-    <li class="l-communications">
-    <div id="/mds/mds-updates/2013-10-30-Mental-Health-Workforce-Data/"><h3>Mental Health Workforce Data</h3></div>
-    <h4>October 30, 2013</h4>
-	<hr />
+	{
+		"title"    : "Mental Health Workforce Data",
+		"date"     : "October 30, 2013",
+		"content"  : "<hr />
 <h1>6th of November, 2013 - Mental Health Workforce Data</h1>
 <p>The Department of Health and Ageing has asked the ATAPS evaluation team to include data about the ATAPS mental health workforce on the MDS. The purpose of maintaining MHPro data on the MDS is so that the ATAPS Mental Health Professional workforce can be reported on at regular intervals and any changes to the composition of the workforce can be observed. In the past two years the reporting of health workforce data has been increasing, and it is important that ATAPS also has the potential to showcase the distribution, diversity and quality of its workforce.</p>
 <p>Two options for collecting this information are outlined in the next section.</p>
@@ -921,14 +468,13 @@
   Last modified: Wednesday, 06 November 2013, 15:40:28.
 </code></pre>
 </div>
+"
+	}
 
-	<hr />
-</li>
-  
-    <li class="l-communications">
-    <div id="/mds/mds-updates/2013-09-25-MDS-Update/"><h3>Mds Update</h3></div>
-    <h4>September 25, 2013</h4>
-	<hr />
+	{
+		"title"    : "Mds Update",
+		"date"     : "September 25, 2013",
+		"content"  : "<hr />
 <h1>25th of September, 2013 - MDS Update</h1>
 <p>MDS Update 4.157 has been released. Below is a summary of the changes:</p>
 <ul>
@@ -951,14 +497,13 @@
   Last modified: Thursday, 26 September 2013, 11:21:08.  
 </code></pre>
 </div>
+"
+	}
 
-	<hr />
-</li>
-  
-    <li class="l-communications">
-    <div id="/mds/mds-updates/2013-08-15-Change-of-ATAPS-web-address-and-support-email-address/"><h3>Change Of Ataps Web Address And Support Email Address</h3></div>
-    <h4>August 15, 2013</h4>
-	<hr />
+	{
+		"title"    : "Change Of Ataps Web Address And Support Email Address",
+		"date"     : "August 15, 2013",
+		"content"  : "<hr />
 <h1>15th of August, 2013 - Change of ATAPS web address and support email address</h1>
 <p>The Department of Health and Ageing has asked us to change all our documentation to refer to Access to Allied Psychological Services (ATAPS) rather than Better Outcomes in Mental Health Care (BOiMHC) to reflect the contemporary naming of the program.</p>
 <p>We have been updating all of the websites to conform with this change. This includes changing the web address of both the ATAPS documentation and the ATAPS minimum dataset and changing the support email address.</p>
@@ -975,14 +520,13 @@
   Last modified: Thursday, 15 August 2013, 11:00:50. 
 </code></pre>
 </div>
+"
+	}
 
-	<hr />
-</li>
-  
-    <li class="l-communications">
-    <div id="/mds/mds-updates/2013-07-30-MDS-Update/"><h3>Mds Update</h3></div>
-    <h4>July 30, 2013</h4>
-	<hr />
+	{
+		"title"    : "Mds Update",
+		"date"     : "July 30, 2013",
+		"content"  : "<hr />
 <h1>30th of July, 2013 - MDS File Uploads Update</h1>
 <p>MDS Update for File uploads 0.59 has been released. Below is a summary of the changes:</p>
 <ul>
@@ -994,14 +538,13 @@
   Last modified: Thursday, 26 September 2013, 10:24:53.
 </code></pre>
 </div>
+"
+	}
 
-	<hr />
-</li>
-  
-    <li class="l-communications">
-    <div id="/mds/mds-updates/2013-07-10-MDS-Update/"><h3>Mds Update</h3></div>
-    <h4>July 10, 2013</h4>
-	<hr />
+	{
+		"title"    : "Mds Update",
+		"date"     : "July 10, 2013",
+		"content"  : "<hr />
 <h1>15th of July, 2013 - MDS Update</h1>
 <p>MDS Update 4.150 has been released. Below is a summary of the new features:</p>
 <ul>
@@ -1015,28 +558,26 @@
   Last modified: Monday, 15 July 2013, 09:11:56.
 </code></pre>
 </div>
+"
+	}
 
-	<hr />
-</li>
-  
-    <li class="l-communications">
-    <div id="/mds/mds-updates/2013-06-20-MDS-Update/"><h3>Mds Update</h3></div>
-    <h4>June 20, 2013</h4>
-	<hr />
+	{
+		"title"    : "Mds Update",
+		"date"     : "June 20, 2013",
+		"content"  : "<hr />
 <h1>20th of June, 2013 - MDS Update</h1>
 <p>In order to further align the minimum dataset with the Operational Guidelines, Acute Mental Health Team has been added as a referrer for the Suicide Prevention Program.</p>
 <div class="highlighter-rouge"><pre class="highlight"><code>&lt;div id='last-modified'&gt;
   Last modified: Thursday, 20 June 2013, 13:31:43.
 </code></pre>
 </div>
+"
+	}
 
-	<hr />
-</li>
-  
-    <li class="l-communications">
-    <div id="/mds/mds-updates/2013-06-12-MDS-Update/"><h3>Mds Update</h3></div>
-    <h4>June 12, 2013</h4>
-	<hr />
+	{
+		"title"    : "Mds Update",
+		"date"     : "June 12, 2013",
+		"content"  : "<hr />
 <h1>12th of June, 2013 - MDS Update</h1>
 <p>MDS Update 4.146 has been released.</p>
 <p>In order to assist Medicare Locals who have not entered data previous to 1st of June, 2013 we have made the following changes:</p>
@@ -1060,14 +601,13 @@
   Last modified: Friday, 19 July 2013, 11:33:49.
 </code></pre>
 </div>
+"
+	}
 
-	<hr />
-</li>
-  
-    <li class="l-communications">
-    <div id="/mds/mds-updates/2013-06-01-MDS-Update/"><h3>Mds Update</h3></div>
-    <h4>June 01, 2013</h4>
-	<hr />
+	{
+		"title"    : "Mds Update",
+		"date"     : "June 01, 2013",
+		"content"  : "<hr />
 <h1>1st of June, 2013 - MDS Update</h1>
 <p>The following fields in the MDS became mandatory reporting items as of the 1st June, 2013:</p>
 <ul>
@@ -1081,14 +621,13 @@
   Last modified: Sunday, 02 June 2013, 17:28:48. 
 </code></pre>
 </div>
+"
+	}
 
-	<hr />
-</li>
-  
-    <li class="l-communications">
-    <div id="/mds/mds-updates/2013-05-17-MDS-Update-Alignment-of-the-MDS-with-ATAPS-Operational-Guidelines-and-new-reports/"><h3>Mds Update   Alignment Of The Mds With Ataps operational guidelines and new reports</h3></div>
-    <h4>May 17, 2013</h4>
-	<hr />
+	{
+		"title"    : "Mds Update   Alignment Of The Mds With Ataps operational guidelines and new reports",
+		"date"     : "May 17, 2013",
+		"content"  : "<hr />
 <h1>17th of May, 2013 - MDS Update - Alignment of the MDS with ATAPS Operational Guidelines and new reports</h1>
 <p>MDS Update 4.139 has been released. Below is a summary of the new features:</p>
 <ul>
@@ -1103,14 +642,13 @@
   Last modified: Wednesday, 29 May 2013, 15:51:50.  
 </code></pre>
 </div>
+"
+	}
 
-	<hr />
-</li>
-  
-    <li class="l-communications">
-    <div id="/mds/mds-updates/2013-05-01-MDS-Update-Encryption-of-SLK/"><h3>Mds Update   Encryption Of Slk</h3></div>
-    <h4>May 01, 2013</h4>
-	<hr />
+	{
+		"title"    : "Mds Update   Encryption Of Slk",
+		"date"     : "May 01, 2013",
+		"content"  : "<hr />
 <h1>1st of May, 2013 - MDS Update - Encryption of SLK</h1>
 <p>Below is a summary of the changes:</p>
 <ul>
@@ -1121,14 +659,13 @@
 <div id="last-modified">
 Last modified: Wednesday, 29 May 2013, 15:51:50. 
 </div>
+"
+	}
 
-	<hr />
-</li>
-  
-    <li class="l-communications">
-    <div id="/mds/mds-updates/2013-04-10-Postcodes-and-No-Show-to-become-mandatory-items/"><h3>Postcodes And No Show To Become Mandatory Items</h3></div>
-    <h4>April 10, 2013</h4>
-	<hr />
+	{
+		"title"    : "Postcodes And No Show To Become Mandatory Items",
+		"date"     : "April 10, 2013",
+		"content"  : "<hr />
 <h1>10th of April, 2013 - Postcodes and No Show to become mandatory items (email issued by the University of Melbourne)</h1>
 <p>Dear ATAPS Coordinator,</p>
 <p>Access to Allied Psychological Services (ATAPS) Minimum Dataset upgrades and additional information</p>
@@ -1178,14 +715,13 @@ Last modified: Wednesday, 29 May 2013, 15:51:50.
   Last modified: Friday, 19 July 2013, 11:35:27.
 </code></pre>
 </div>
+"
+	}
 
-	<hr />
-</li>
-  
-    <li class="l-communications">
-    <div id="/mds/mds-updates/2012-11-09-MDS-Update-Addition-of-SLK-field/"><h3>Mds Update   Addition Of Slk Field</h3></div>
-    <h4>November 09, 2012</h4>
-	<hr />
+	{
+		"title"    : "Mds Update   Addition Of Slk Field",
+		"date"     : "November 09, 2012",
+		"content"  : "<hr />
 <h1>9th of November, 2012 - MDS Update - Addition of SLK field</h1>
 <p>Below is a summary of the new features added:</p>
 <ul>
@@ -1199,14 +735,13 @@ Last modified: Wednesday, 29 May 2013, 15:51:50.
   Last modified: Wednesday, 29 May 2013, 15:51:50.   
 </code></pre>
 </div>
+"
+	}
 
-	<hr />
-</li>
-  
-    <li class="l-communications">
-    <div id="/mds/mds-updates/2011-07-13-look-it-up/"><h3>Look It Up</h3></div>
-    <h4>July 13, 2011</h4>
-	<hr />
+	{
+		"title"    : "Look It Up",
+		"date"     : "July 13, 2011",
+		"content"  : "<hr />
 <p>For divisions who upload their data, please refer to the 'File Transfer/Upload' notes on the <a href="../../help/file-transfers/index.html#Uploads"> MDS Online Help</a>.</p>
 <h3><a id="DIY_Password_recovery"></a> DIY Password recovery</h3>
 <p>This allows users who have forgotten their password or username to recover either of these by entering either the registered email address or their Username. The system will issue a new password to the email address that is the authorised user for your ID account.</p>
@@ -1222,25 +757,7 @@ Last modified: Wednesday, 29 May 2013, 15:51:50.
   Last modified: Wednesday, 29 May 2013, 15:51:50.    
 </code></pre>
 </div>
+"
+	}
 
-	<hr />
-</li>
-  
-</ul>
-</div>
-
-  </div>
-</div>
-	</div><!--/inner_wrapper-->
-        <div class="low_status_bar">
-          <span id="copyright">
-            &copy; 2016 The University of Melbourne’s Centre for Health Policy, Programs and Economics and Strategic Data Pty. Ltd.
-          </span>
-          <span>
-          <a id="email_support" href="mailto:support@ataps-mds.com">&#x2709; Contact support</a>
-          </span>
-       </div>
-     </div><!--/outer_wrapper-->
-
-</body>
-</html>
+]

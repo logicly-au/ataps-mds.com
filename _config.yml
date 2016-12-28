@@ -10,12 +10,32 @@ author:
   name:              'Strategic Data'
   email:             'support@ataps-mds.com'
 
+#collections:
+#  mds-updates:
+#    permalink: "mds/mds-updates"
+
+
 exclude: [node_modules,vendor,src,gulpfile.js,bower_components,bower.json,README.md,static,package.json,'*.sh',nginx.d]
 defaults:
   -
     scope:
       path: "" # an empty string here means all files in the project
+      type: "pages"
     values:
       layout: "default"
+  -
+    scope:
+      path: ""
+      type: "posts"
+#      type: "mds-updates"
+    values:
+      layout: "default"
+      permalink: "/mds/mds-updates/:year-:month-:day-:title/"
+#  -
+#    scope:
+#      path: ""
+#      type: "mds-updates"
+#    values:
+#      layout: "mds-updates"
 source:      _source
 destination: _deploy
