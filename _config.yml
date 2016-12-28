@@ -3,7 +3,7 @@ permalink:           pretty
 
 # Setup
 title:               ATAPS Minimum Data Set
-url:                 https://ataps-mds.com
+url:                 https://www.ataps-mds.com
 
 # About/contact
 author:
@@ -14,8 +14,19 @@ author:
 #  mds-updates:
 #    permalink: "mds/mds-updates"
 
-
-exclude: [node_modules,vendor,src,gulpfile.js,bower_components,bower.json,README.md,static,package.json,'*.sh',nginx.d]
+exclude: 
+  - node_modules
+  - vendor
+  - src
+  - gulpfile.js
+  - bower_components
+  - bower.json
+  - README.md
+  - static
+  - package.json
+  - '*.sh'
+  - nginx.d
+  
 defaults:
   -
     scope:
@@ -30,7 +41,7 @@ defaults:
 #      type: "mds-updates"
     values:
       layout: "default"
-      permalink: "/mds/mds-updates/:year-:month-:day-:title/"
+      permalink: "/mds/announcements/:year-:month-:day-:title/"
 #  -
 #    scope:
 #      path: ""
