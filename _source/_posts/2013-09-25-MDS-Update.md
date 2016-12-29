@@ -1,5 +1,8 @@
 ---
-<h1>25th of September, 2013 - MDS Update</h1>
+title: 'MDS Update'
+changed: '2013-09-26T11:21:08.'
+---
+
 <p>MDS Update 4.157 has been released. Below is a summary of the changes:</p>
 <ul>
 <li>SLKs entered in base32 form were not being correctly validated. This has been fixed.</li>
@@ -16,5 +19,4 @@
 <li>All existing MHP Data was removed.</li>
 </ul>
 </li>
-</ul>    <div id='last-modified'>
-      Last modified: Thursday, 26 September 2013, 11:21:08.  
+</ul>    

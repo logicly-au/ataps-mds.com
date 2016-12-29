@@ -1,4 +1,7 @@
 ---
+title: 'MDS Update - Addition of SLK field'
+changed: '2013-05-29T15:51:50.'
+---
 <h1>9th of November, 2012 - MDS Update - Addition of SLK field</h1>
 <p>Below is a summary of the new features added:</p>
 <ul>
@@ -7,5 +10,4 @@
 <li>Addition of 'take' functionality allowing Medicare Locals to 'take' historical patients into their Medicare Local from one of their old divisions.</li>
 <li>Change of user interface for specifying the referrer in a referral.</li>
 <li>Change of user interface for specifying the ahpro in a session.</li>
-</ul>    <div id='last-modified'>
-      Last modified: Wednesday, 29 May 2013, 15:51:50.   
+</ul>

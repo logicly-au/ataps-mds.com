@@ -1,5 +1,8 @@
 ---
-<h1>1st of June, 2016 - UPDATE regarding data collection expectations – ATAPS/MHSRRA MDS and the PMHC MDS [SEC=UNCLASSIFIED]</h1>
+title: 'UPDATE regarding data collection expectations – ATAPS/MHSRRA MDS and the PMHC MDS'
+changed: '2016-06-01T12:06:02'
+---
+
 <p>Hello all</p>
 <p>As Primary Health Networks (PHNs) are aware, work has commenced on the design of a Primary Mental Health Care Minimum Data Set (PMHC MDS) and associated reporting arrangements.  This does not represent a ground up development but rather builds on the foundation established by the current ATAPS/MHSRRA minimum data set. </p>
 <p><em>The new Mental Health Schedule states:</em></p>
@@ -33,5 +36,4 @@
 <p><em>Communications:</em></p>
 <p>Further details will be distributed and shared through the necessary stakeholder groups as they become available. </p>
 <p>Alternatively should you have any immediate concerns or technical questions in regard to the collection of data for mental health please direct them to Strategic Data (responsible for the Minimum Data Set) at <a href="mailto:support@ataps-mds.com">support@ataps-mds.com</a> to discuss how to manage data entry during the interim period. </p>
-<p>Should you wish to provide input to the discussions you can do so by writing to <a href="mailto:PMHCSSInbox@health.gov.au">PMHCSSInbox@health.gov.au</a></p>    <div id='last-modified'>
-      Last modified: Wednesday, 01 June 2016, 12:06:02.
+<p>Should you wish to provide input to the discussions you can do so by writing to <a href="mailto:PMHCSSInbox@health.gov.au">PMHCSSInbox@health.gov.au</a></p>

@@ -1,5 +1,8 @@
 ---
-<h1>3rd August 2015 - MDS Update</h1>
+title: 'MDS Update'
+changed: '2015-08-03T21:44:52.'
+---
+
 <p>MDS Update v4.186 has been released.</p>
 <p>The following changes were implemented:</p>
 <ul>
@@ -10,5 +13,4 @@
 <li>contact your primary contact for the ATAPS MDS for your organisation, or</li>
 <li>the ATAPS MDS support team</li>
 </ul>
-<p>for further assistance.</p>    <div id='last-modified'>
-      Last modified: Monday, 03 August 2015, 21:44:52.  
+<p>for further assistance.</p>   

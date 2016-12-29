@@ -1,5 +1,8 @@
 ---
-<h1>26th April 2015 - MDS Update</h1>
+title: 'MDS Update'
+changed: '2015-04-26T20:50:36.'
+---
+
 <p>MDS Update v4.175 has been released.</p>
 <p>The following new features will be available</p>
 <ul>
@@ -15,5 +18,4 @@
 <ul>
 <li>Session uploads will no longer accept an empty string as a valid response for the fields "type" or "modality". Either the "duration" or "no_show" must have a non-zero value.</li>
 </ul>
-<p>The documentation at <a href="../../technical-documentation/index.html" target="_top">https://ataps-mds.com/mds/technical-documentation/</a> has been updated to reflect these changes.</p>    <div id='last-modified'>
-      Last modified: Sunday, 26 April 2015, 20:50:36.   
+<p>The documentation at <a href="../../technical-documentation/index.html" target="_top">https://ataps-mds.com/mds/technical-documentation/</a> has been updated to reflect these changes.</p>    

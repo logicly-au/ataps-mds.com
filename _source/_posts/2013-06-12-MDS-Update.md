@@ -1,5 +1,7 @@
 ---
-<h1>12th of June, 2013 - MDS Update</h1>
+title: 'MDS Update'
+changed: '2013-07-19T11:33:49.'
+---
 <p>MDS Update 4.146 has been released.</p>
 <p>In order to assist Medicare Locals who have not entered data previous to 1st of June, 2013 we have made the following changes:</p>
 <ul>
@@ -18,4 +20,3 @@
 <li>ATSI Suicide prevention</li>
 </ul>
 <p>The documentation at <a href="../../technical-documentation/file-format/index.html" target="_blank">https://ataps-mds.com/mds/technical-documentation/file-format/</a> has been updated to reflect these changes.</p>    <div id='last-modified'>
-      Last modified: Friday, 19 July 2013, 11:33:49.

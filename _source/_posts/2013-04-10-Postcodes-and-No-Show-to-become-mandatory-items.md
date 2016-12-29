@@ -1,5 +1,8 @@
 ---
-<h1>10th of April, 2013 - Postcodes and No Show to become mandatory items (email issued by the University of Melbourne)</h1>
+title: 'Postcodes and No Show to become mandatory items (email issued by the University of Melbourne)'
+changed: '2013-07-19T11:35:27.'
+---
+
 <p>Dear ATAPS Coordinator,</p>
 <p>Access to Allied Psychological Services (ATAPS) Minimum Dataset upgrades and additional information</p>
 <h2>Introduction of mandatory <a href="../../mds-updates/slk/index.html">SLK</a>, postcode and ‘no show’ fields in the MDS</h2>
@@ -43,5 +46,4 @@
 <p>We will continue to work to update you on the various upgrades to the MDS that are currently being worked on and that will become active in the coming months.</p>
 <p>If you are having some difficulty with using the MDS, Strategic Data Ltd maintain the https://ataps-mds.com/ website, which has an extensive <a href="../../user-documentation/faq/index.html">FAQ’s section</a>. This is a live document and is therefore consistently updated.</p>
 <p>If you cannot find the information you are looking for, support is available at <a href="mailto:support@ataps-mds.com">support@ataps-mds.com</a>. Please send all technical queries to this address.</p>
-<p>For any enquiries regarding the ATAPS evaluation, please contact Dr Bridget Bassilios at <a href="mailto:b.bassilios@unimelb.edu.au">b.bassilios@unimelb.edu.au</a></p>    <div id='last-modified'>
-      Last modified: Friday, 19 July 2013, 11:35:27.
+<p>For any enquiries regarding the ATAPS evaluation, please contact Dr Bridget Bassilios at <a href="mailto:b.bassilios@unimelb.edu.au">b.bassilios@unimelb.edu.au</a></p>    
