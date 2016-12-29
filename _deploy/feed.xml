@@ -128,10 +128,7 @@
 				<title>MHSRRA Updates to the ATAPS minimum dataset - December 2015</title>
 				        
 				
-					<description>&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;h1&amp;gt;16th December 2015 - MHSRRA Updates to the ATAPS minimum dataset - December 2015&amp;lt;/h1&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-&lt;p&gt;MDS Update v4.190 was released on December 16th, 2015.&lt;/p&gt;
+					<description>&lt;p&gt;MDS Update v4.190 was released on December 16th, 2015.&lt;/p&gt;
 &lt;p&gt;The ATAPS MDS can now be used to capture Mental Health Services in Rural and Remote Areas (MHSRRA) data.&lt;/p&gt;
 &lt;p&gt;It has been determined that ATAPS and MHSRRA will have largely congruent data capture requirements in the future. Although MHSRRA is not part of the ATAPS program, for convenience, a new referral type 'MHSRRA' has been added. Documentation is available at &lt;a href=&quot;../../technical-documentation/uploading-mhsrra-data/index.html&quot; target=&quot;_top&quot;&gt;https://ataps-mds.com/mds/technical-documentation/uploading-mhsrra-data/&lt;/a&gt; summarising the changes to the upload file formats required in order to include MHSRRA data. The documentation at &lt;a href=&quot;../../technical-documentation/index.html&quot; target=&quot;_top&quot;&gt;https://ataps-mds.com/mds/technical-documentation/&lt;/a&gt; has been also been updated to reflect these changes.&lt;/p&gt;
 &lt;p&gt;PHNs who collect MHSRRA data have automatically had this new referral type enabled. If your PHN collects MHSRRA data and you do not have access to this referral type please contact &lt;a href=&quot;mailto:support@ataps-mds.com.&quot;&gt;support@ataps-mds.com.&lt;/a&gt;&lt;/p&gt;
@@ -210,7 +207,6 @@
 &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;div id='last-modified'&amp;gt;
 &lt;/code&gt;&lt;/pre&gt;
 &lt;/div&gt;
-
 </description>
 				
 				<pubDate>Mon, 22 Jun 2015 00:00:00 +0000</pubDate>

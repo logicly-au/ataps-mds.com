@@ -96,10 +96,7 @@
 	{
 		"title"    : "MHSRRA Updates to the ATAPS minimum dataset - December 2015",
 		"date"     : "December 16, 2015",
-		"content"  : "<div class="highlighter-rouge"><pre class="highlight"><code>&lt;h1&gt;16th December 2015 - MHSRRA Updates to the ATAPS minimum dataset - December 2015&lt;/h1&gt;
-</code></pre>
-</div>
-<p>MDS Update v4.190 was released on December 16th, 2015.</p>
+		"content"  : "<p>MDS Update v4.190 was released on December 16th, 2015.</p>
 <p>The ATAPS MDS can now be used to capture Mental Health Services in Rural and Remote Areas (MHSRRA) data.</p>
 <p>It has been determined that ATAPS and MHSRRA will have largely congruent data capture requirements in the future. Although MHSRRA is not part of the ATAPS program, for convenience, a new referral type 'MHSRRA' has been added. Documentation is available at <a href="../../technical-documentation/uploading-mhsrra-data/index.html" target="_top">https://ataps-mds.com/mds/technical-documentation/uploading-mhsrra-data/</a> summarising the changes to the upload file formats required in order to include MHSRRA data. The documentation at <a href="../../technical-documentation/index.html" target="_top">https://ataps-mds.com/mds/technical-documentation/</a> has been also been updated to reflect these changes.</p>
 <p>PHNs who collect MHSRRA data have automatically had this new referral type enabled. If your PHN collects MHSRRA data and you do not have access to this referral type please contact <a href="mailto:support@ataps-mds.com.">support@ataps-mds.com.</a></p>
@@ -158,7 +155,6 @@
 <div class="highlighter-rouge"><pre class="highlight"><code>&lt;div id='last-modified'&gt;
 </code></pre>
 </div>
-
 "
 	}
 
@@ -199,7 +195,7 @@
 
 	{
 		"title"    : "Ensuring your data is up to date on the ATAPS MDS",
-		"date"     : "March 03, 2015",
+		"date"     : "March 02, 2015",
 		"content"  : "<p>Dear Medicare Locals,</p>
 <p>Please be advised that data will be extracted for various evaluation reports on 30 April, 31 July and 30 September, 2015.</p>
 <p>However, the Department often request reports without any notice and it is therefore recommended that ATAPS data is kept as up to date as possible at all times, at minimum monthly.</p>
@@ -322,7 +318,7 @@
 	}
 
 	{
-		"title"    : "2013-11-06 - Mental Health Workforce Data",
+		"title"    : "Mental Health Workforce Data",
 		"date"     : "October 30, 2013",
 		"content"  : "<p>The Department of Health and Ageing has asked the ATAPS evaluation team to include data about the ATAPS mental health workforce on the MDS. The purpose of maintaining MHPro data on the MDS is so that the ATAPS Mental Health Professional workforce can be reported on at regular intervals and any changes to the composition of the workforce can be observed. In the past two years the reporting of health workforce data has been increasing, and it is important that ATAPS also has the potential to showcase the distribution, diversity and quality of its workforce.</p>
 <p>Two options for collecting this information are outlined in the next section.</p>
@@ -533,8 +529,7 @@
 	{
 		"title"    : "MDS Update - Addition of SLK field",
 		"date"     : "November 09, 2012",
-		"content"  : "<h1>9th of November, 2012 - MDS Update - Addition of SLK field</h1>
-<p>Below is a summary of the new features added:</p>
+		"content"  : "<p>Below is a summary of the new features added:</p>
 <ul>
 <li>Addition of <a href="../../mds-updates/slk/index.html">SLK</a> field.</li>
 <li>Addition of migration help functionality including the 'Transitional GP Selection' form.</li>
