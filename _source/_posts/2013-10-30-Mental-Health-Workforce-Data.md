@@ -1,6 +1,6 @@
 ---
-title: '2013-11-06 - Mental Health Workforce Data'
-changed: '2013-11-06T15:40:28.'
+title: 'Mental Health Workforce Data'
+changed: '2013-11-06T15:40:28'
 ---
 
 <p>The Department of Health and Ageing has asked the ATAPS evaluation team to include data about the ATAPS mental health workforce on the MDS. The purpose of maintaining MHPro data on the MDS is so that the ATAPS Mental Health Professional workforce can be reported on at regular intervals and any changes to the composition of the workforce can be observed. In the past two years the reporting of health workforce data has been increasing, and it is important that ATAPS also has the potential to showcase the distribution, diversity and quality of its workforce.</p>

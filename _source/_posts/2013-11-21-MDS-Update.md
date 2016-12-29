@@ -1,6 +1,6 @@
 ---
 title: 'MDS Update'
-changed: '2013-11-21T15:00:42.'
+changed: '2013-11-21T15:00:42'
 ---
 
 <p>MDS Update for File uploads 0.60 has been released. Below is a summary of the changes:</p>

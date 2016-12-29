@@ -1,6 +1,6 @@
 ---
 title: 'Persistent identifiers and recording of triage activity'
-changed: '2015-03-24T11:29:09.'
+changed: '2015-03-24T11:29:09'
 ---
 
 

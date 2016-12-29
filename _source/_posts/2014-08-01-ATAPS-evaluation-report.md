@@ -1,6 +1,6 @@
 ---
 title: 'ATAPS evaluation report'
-changed: '2014-08-04T10:20:00.'
+changed: '2014-08-04T10:20:00'
 ---
 <p>Dear Medicare Locals,</p>
 <p>Our next evaluation report is due to the Department of Health on the 13th of October. We will be downloading the data for this report in early September. In order for the evaluation report to be as accurate as possible we ask that you please work to have your ATAPS data as up to date as possible in the MDS by the <strong>1st of September 2014</strong>. We will be evaluating <strong>all ATAPS data up until the end of June 2014</strong>.  </p>

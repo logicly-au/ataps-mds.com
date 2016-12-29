@@ -1,6 +1,6 @@
 ---
 title: 'MDS Update'
-changed: '2013-07-19T11:33:49.'
+changed: '2013-07-19T11:33:49'
 ---
 <p>MDS Update 4.146 has been released.</p>
 <p>In order to assist Medicare Locals who have not entered data previous to 1st of June, 2013 we have made the following changes:</p>

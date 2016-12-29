@@ -1,8 +1,8 @@
 ---
 title: 'MDS Update - Addition of SLK field'
-changed: '2013-05-29T15:51:50.'
+changed: '2013-05-29T15:51:50'
 ---
-<h1>9th of November, 2012 - MDS Update - Addition of SLK field</h1>
+
 <p>Below is a summary of the new features added:</p>
 <ul>
 <li>Addition of <a href="../../mds-updates/slk/index.html">SLK</a> field.</li>

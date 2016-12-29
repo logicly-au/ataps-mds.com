@@ -1,6 +1,6 @@
 ---
 title: 'MDS Update'
-changed: '2015-04-26T20:50:36.'
+changed: '2015-04-26T20:50:36'
 ---
 
 <p>MDS Update v4.175 has been released.</p>

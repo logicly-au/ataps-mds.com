@@ -1,6 +1,6 @@
 ---
 title: 'Reminder that Copayment field is to become mandatory in the ATAPS MDS'
-changed: '2014-05-23T13:27:54.'
+changed: '2014-05-23T13:27:54'
 ---
 
 <p>Dear ATAPS Coordinator,</p>

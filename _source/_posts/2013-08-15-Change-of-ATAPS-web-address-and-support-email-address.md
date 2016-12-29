@@ -1,6 +1,6 @@
 ---
 title: 'Change of ATAPS web address and support email address'
-changed: '2013-08-15T11:00:50.'
+changed: '2013-08-15T11:00:50'
 ---
 
 <p>The Department of Health and Ageing has asked us to change all our documentation to refer to Access to Allied Psychological Services (ATAPS) rather than Better Outcomes in Mental Health Care (BOiMHC) to reflect the contemporary naming of the program.</p>

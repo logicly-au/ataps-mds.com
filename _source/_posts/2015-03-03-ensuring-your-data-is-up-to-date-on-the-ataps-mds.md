@@ -1,6 +1,6 @@
 ---
 title: 'Ensuring your data is up to date on the ATAPS MDS'
-changed: '2015-03-02T14:26:10.'
+changed: '2015-03-02T14:26:10'
 ---
 <p>Dear Medicare Locals,</p>
 <p>Please be advised that data will be extracted for various evaluation reports on 30 April, 31 July and 30 September, 2015.</p>

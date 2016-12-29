@@ -1,6 +1,6 @@
 ---
 title: 'MDS Update - Encryption of SLK'
-changed: '2013-05-2016T15:51:50. '
+changed: '2013-05-2016T15:51:50'
 ---
 
 <p>Below is a summary of the changes:</p>

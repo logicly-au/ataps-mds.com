@@ -1,6 +1,6 @@
 ---
 title: 'Copayment field to become mandatory in the ATAPS MDS'
-changed: '09 April 201-04-09, 15:40:35.'
+changed: '09 April 201-04-09, 15:40:35'
 ---
 <p>Dear ATAPS Coordinator,</p>
 <p>Last week a message was issued to Medicare Local CEO's from the Department of Health advising that the Copayment field is to become mandatory in the ATAPS MDS from the 1st of June, 2014. This will only apply to sessions dated after the 1st of June, 2014. The copayment field will still be optional for sessions dated before the 1st of June, 2014. This change means that if no copayment was charged, $0 will need to be entered into the copayment field.</p>

@@ -1,6 +1,6 @@
 ---
 title: 'MDS Update'
-changed: '2013-06-02T17:28:48.'
+changed: '2013-06-02T17:28:48'
 ---
 
 <p>The following fields in the MDS became mandatory reporting items as of the 1st June, 2013:</p>

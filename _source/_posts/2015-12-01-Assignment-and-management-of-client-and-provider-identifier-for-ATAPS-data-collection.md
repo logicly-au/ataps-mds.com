@@ -1,6 +1,6 @@
 ---
 title: 'Assignment and management of client and provider identifiers for ATAPS data collection'
-changed: '2015-12-04T10:00:54.'
+changed: '2015-12-04T10:00:54'
 ---
 
 <p>Please find below a communication from the Department of Health and Strategic Data, who with the University of Melbourne, manage the reporting requirements for the Access to Allied Psychological Services (ATAPS) programme on behalf of the Department of Health.</p>

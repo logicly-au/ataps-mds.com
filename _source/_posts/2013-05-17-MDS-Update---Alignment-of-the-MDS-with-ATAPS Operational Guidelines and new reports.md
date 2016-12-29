@@ -1,6 +1,6 @@
 ---
 title: 'MDS Update - Alignment of the MDS with ATAPS Operational Guidelines and new reports'
-changed: '2013-05-29T15:51:50.'
+changed: '2013-05-29T15:51:50'
 ---
 
 <p>MDS Update 4.139 has been released. Below is a summary of the new features:</p>

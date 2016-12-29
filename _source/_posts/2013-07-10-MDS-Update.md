@@ -1,6 +1,6 @@
 ---
 title: 'MDS Update'
-changed: '2013-07-15T09:11:56.'
+changed: '2013-07-15T09:11:56'
 ---
 
 <p>MDS Update 4.150 has been released. Below is a summary of the new features:</p>

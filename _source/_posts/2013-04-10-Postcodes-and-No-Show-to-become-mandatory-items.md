@@ -1,6 +1,6 @@
 ---
 title: 'Postcodes and No Show to become mandatory items (email issued by the University of Melbourne)'
-changed: '2013-07-19T11:35:27.'
+changed: '2013-07-19T11:35:27'
 ---
 
 <p>Dear ATAPS Coordinator,</p>

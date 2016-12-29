@@ -1,6 +1,6 @@
 ---
 title: 'Ensuring your data is up to date on the ATAPS MDS'
-changed: '2014-04-29T16:10:15.'
+changed: '2014-04-29T16:10:15'
 ---
 <p>Dear Medicare Local Project Officers,</p>
 <p>We have been requested by a number of people since our email this morning to clarify the dates of data to be included in the next report.</p>

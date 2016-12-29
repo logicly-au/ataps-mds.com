@@ -1,6 +1,6 @@
 ---
 title: 'Update to the ATAPS minimum dataset - January 2016'
-changed: '2016-01-22, 09:41:40.'
+changed: '2016-01-22T09:41:40'
 ---
 
 <p>MDS Update v4.193 was released on January 21, 2016.</p>
