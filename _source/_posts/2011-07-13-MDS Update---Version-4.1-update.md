@@ -2,6 +2,28 @@
 title: 'MDS Update - Version 4.1 update'
 changed: '2013-05-29T15:51:50'
 ---
+<p>The MDS has been updated with many minor and major features we've been working on over the past few months. Some of these are invisible to end-users, being upgrades to general architecture for reliability and monitoring.</p>
+<p>The main change to this version of the system are outlined below.</p>
+<ul>
+<li><a href="index.html#A_2010_4711_Floods_and_Cyclone_Yasi_referrals">2010/11 Floods and Cyclone Yasi referrals</a></li>
+<li><a href="index.html#DIY_Password_recovery">DIY Password recovery</a></li>
+<li><a href="index.html#Detect_trailing_whitespace_in_uploads">Detect trailing whitespace in uploads</a></li>
+<li><a href="index.html#Reduction_of_minimum_patient_key_length_from_3_to_2_characters"> Reduction of minimum patient key length from 3 to 2 characters</a></li>
+<li><a href="index.html#Ability_to_self_manage_40add_47edit_41_new_users_for_your_division"> Ability to self manage (add/edit) new users for your division</a></li>
+<li><a href="index.html#Accessing_a_list_of_users_for_your_division">Accessing a list of users for your division</a></li>
+</ul>
+<h3><a id="A_2010_4711_Floods_and_Cyclone_Yasi_referrals"></a> 2010/11 Floods and Cyclone Yasi referrals</h3>
+<p>The following <em>Referral Type</em> has been added to the MDS for divisions who deliver these services:</p>
+<ul>
+<li>2010-11 Floods and Cyclone Yasi</li>
+</ul>
+<p><em>Referrer Type</em> options for this <em>Referral Type</em> are:</p>
+<ul>
+<li>GP</li>
+<li>Self</li>
+<li>Centrelink Social Workers</li>
+<li>State Mental Health Services</li>
+</ul>
 <p>For divisions who upload their data, please refer to the 'File Transfer/Upload' notes on the <a href="../../help/file-transfers/index.html#Uploads"> MDS Online Help</a>.</p>
 <h3><a id="DIY_Password_recovery"></a> DIY Password recovery</h3>
 <p>This allows users who have forgotten their password or username to recover either of these by entering either the registered email address or their Username. The system will issue a new password to the email address that is the authorised user for your ID account.</p>
