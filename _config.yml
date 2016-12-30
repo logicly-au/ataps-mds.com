@@ -40,7 +40,7 @@ defaults:
       type: "posts"
 #      type: "mds-updates"
     values:
-      layout: "default"
+      layout: "announcement"
       permalink: "/mds/announcements/:year-:month-:day-:title/"
 #  -
 #    scope:
