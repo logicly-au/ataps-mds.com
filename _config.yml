@@ -14,7 +14,7 @@ author:
 #  mds-updates:
 #    permalink: "mds/mds-updates"
 
-exclude: 
+exclude:
   - node_modules
   - vendor
   - src
@@ -26,7 +26,7 @@ exclude:
   - package.json
   - '*.sh'
   - nginx.d
-  
+
 defaults:
   -
     scope:

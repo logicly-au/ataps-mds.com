@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Announcements</title>
+  <title>Persistent identifiers and recording of triage activity - ATAPS-MDS</title>
   <meta name="description" content="" />
   <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
   <meta name="generator" content="ProcssWire 2.3.0" />
@@ -18,7 +18,7 @@
             width:auto;
           }
       </style>
-  <![endif]-->	
+  <![endif]-->
 
   <!--[if lt IE 9]>
     <script src="http://ie7-js.googlecode.com/svn/version/2.1(beta4)/IE9.js"></script>
@@ -80,14 +80,14 @@
   <script type="text/javascript" charset="utf-8">
      $(document).ready(function(){ $("#toc").tableOfContents(); });
 
-     $(document).ready(function(){ 
+     $(document).ready(function(){
        $("#toc").tableOfContents(
           null,                // Default scoping
-          { 
+          {
              startLevel: 2,    // H2 and up
              depth: 2          // H2 to H3
           }
-        ); 
+        );
      });
   </script>
 
@@ -134,7 +134,7 @@
 </li>
     <li><a href='../2016-01-22/index.html' title='22nd January 2016 - Update to the ATAPS minimum dataset - January 2016'>22nd January 2016 - Update to the ATAPS minimum dataset - January 2016</a>
 </li>
-    <li><a href='https://ataps-mds.com/mds/announcements/all/' title='All Announcements'>All Announcements</a>
+    <li><a href='/mds/announcements/all/' title='All Announcements'>All Announcements</a>
 </ul>
 </li>
     <li><a href='/mds/user-documentation/index.html' title='User Documentation'>User Documentation</a>
@@ -283,13 +283,19 @@
         <li><a href='/index.html'>Home</a> &gt; </li>
         <li><a href='/mds/index.html'>Minimum Dataset</a> &gt; </li>
     </ul>
-    <h2>Importance of persistent client and provider identifiers</h2>
+    <h1>
+  Persistent identifiers and recording of triage activity
+</h1>
+<h4>March 24, 2015</h4>
+<br/>
+<h2>Importance of persistent client and provider identifiers</h2>
 <p>A number of requests for assistance have been raised regarding protocols when upgrading and/or moving Medicare Local’s databases to new systems.</p>
 <p>While there are no set protocols we would like to emphasise the importance of maintaining existing ATAPS-MDS data integrity during the transfer process. In particular, you must ensure that relevant identifiers for ‘patient_key’, ‘mhpro’ and ‘referrer_code’ are maintained so that historical analysis of the dataset is not compromised. So, for example, the same person in your new system should have the same code as they had in the old system. If it is not possible to use the existing codes then a mapping between the old and new codes should be provided so that the historical data can be updated on your behalf by the ATAPS-MDS support team.</p>
 <h2>Recording of ineligible patients at triage stage</h2>
 <p>New patients and/or referrals that are deemed ineligible for ATAPS services at the triage stage are generally considered out of scope of the MDS and should therefore not be recorded in the ATAPS-MDS.</p>
 <p>It has been brought to our attention that the conclusion “referred elsewhere” is sometimes being incorrectly used to designate referrals that either never resulted in sessions and/or which were originally deemed to be ineligible for ATAPS services. However, this code is purely intended to be used for referrals where sessions have already begun to be delivered but where the patient has been referred to another location, if they moved for example.</p>
 <p>Ideally, these out of scope referrals should therefore be removed from the MDS, however this may prove onerous as there is no automatic way of deleting referrals. As an alternative, we will be adding a new conclusion: “patient ineligible”. Once we have done so, it would be greatly appreciated if existing instances of referrals incorrectly using “referred elsewhere” as their conclusion be updated to the conclusion “patient ineligible”. We will notify you when the new conclusion has been added, at this stage we anticipate early April.</p>
+
 
   </div>
 </div>
