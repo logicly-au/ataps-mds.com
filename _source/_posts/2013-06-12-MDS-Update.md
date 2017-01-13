@@ -19,4 +19,4 @@ changed: '2013-07-19T11:33:49'
 <li>Children</li>
 <li>ATSI Suicide prevention</li>
 </ul>
-<p>The documentation at <a href="../../technical-documentation/file-format/index.html" target="_blank">https://ataps-mds.com/mds/technical-documentation/file-format/</a> has been updated to reflect these changes.</p>    <div id='last-modified'>
+<p>The documentation at <a href="../../technical-documentation/file-format/index.html" target="_blank">https://ataps-mds.com/mds/technical-documentation/file-format/</a> has been updated to reflect these changes.</p>   

@@ -1,0 +1,10 @@
+{% for post in site.posts limit:5 %}
+  <li>
+    <a href="{{ post.url }}" title="{{ post.date | date: '%B %d, %Y' }} - {{ post.title }}">
+      {{ post.date | date: '%B %d, %Y' }} - {{ post.title }}
+    </a>
+  </li>
+{% endfor %}
+<li>
+    <a href="/mds/announcements/all/index.html">All Annnouncements</a>
+</li>
