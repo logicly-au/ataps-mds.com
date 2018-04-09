@@ -3,8 +3,30 @@
 	<channel>
 		<title></title>
 		<description></description>		
-		<link>https://www.ataps-mds.com</link>
-		<atom:link href="https://www.ataps-mds.com/feed.xml" rel="self" type="application/rss+xml" />
+		<link>http://0.0.0.0:4000</link>
+		<atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>NOTIFICATION of the Shutdown of the ATAPS/MHSRRA MDS</title>
+				        
+				
+					<description>&lt;p&gt;NOTIFICATION of the Shutdown of the ATAPS/MHSRRA MDS&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;The ATAPS/MHSRRA MDS will be shut down on Monday 6 August 2018.&lt;/em&gt;  After 6 August 2018 all data must be entered into the PMHC MDS.&lt;/p&gt;
+
+&lt;p&gt;The ATAPS/MHSRRA MDS has been kept online to allow existing client referrals received prior to 1 July 2017 under the old ATAPS/MHSRRA system to be maintained until all sessions associated with that referral were complete. As of 1 July 2017 only new sessions for these existing clients were to be entered into the old ATAPS/MHSRRA MDS. No new clients or referrals were to be entered into the system.&lt;/p&gt;
+
+&lt;p&gt;All referrals entered into the ATAPS/MHSRRA MDS prior to 1 July 2017 are expected to have completed their ATAPS/MHSRRA sessions by 30 June 2018 and have their data entered into the ATAPS/MHRRSA MDS prior to the system being shut down on 6 August 2018. Should the client require continuing services beyond 30 June 2018, the service provider or PHN should make arrangements for the client to be reregistered through the PMHC MDS.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Any new referrals made after 1 July 2017 should have been entered into the new Primary Mental Health Care Minimum Data Set (PMHC MDS).&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Please email &lt;a href=&quot;mailto:support@ataps-mds.com.&quot;&gt;support@ataps-mds.com&lt;/a&gt; with any questions.&lt;/p&gt;
+</description>
+				
+				<pubDate>Mon, 26 Mar 2018 00:00:00 -0500</pubDate>
+				<link>http://0.0.0.0:4000/mds/announcements/2018-03-26-NOTIFICATION-of-the-Shutdown-of-the-ATAPS-MHSRRA-MDS/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/mds/announcements/2018-03-26-NOTIFICATION-of-the-Shutdown-of-the-ATAPS-MHSRRA-MDS/</guid>
+			</item>
 		
 			<item>
 				<title>UPDATE regarding data collection expectations – ATAPS/MHSRRA MDS and the PMHC MDS</title>
@@ -46,9 +68,9 @@
 &lt;p&gt;Should you wish to provide input to the discussions you can do so by writing to &lt;a href=&quot;mailto:PMHCSSInbox@health.gov.au&quot;&gt;PMHCSSInbox@health.gov.au&lt;/a&gt;&lt;/p&gt;
 </description>
 				
-				<pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
-				<link>https://www.ataps-mds.com/mds/announcements/2016-06-01-UPDATE-regarding-data-collection-expectations/</link>
-				<guid isPermaLink="true">https://www.ataps-mds.com/mds/announcements/2016-06-01-UPDATE-regarding-data-collection-expectations/</guid>
+				<pubDate>Wed, 01 Jun 2016 00:00:00 -0500</pubDate>
+				<link>http://0.0.0.0:4000/mds/announcements/2016-06-01-UPDATE-regarding-data-collection-expectations/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/mds/announcements/2016-06-01-UPDATE-regarding-data-collection-expectations/</guid>
 			</item>
 		
 			<item>
@@ -75,9 +97,9 @@
 &lt;p&gt;The documentation at &lt;a href=&quot;../../help/index.html&quot; target=&quot;_top&quot;&gt;https://ataps-mds.com/mds/user-documentation/user-guide/&lt;/a&gt; has been updated to reflect these changes.&lt;/p&gt;
 </description>
 				
-				<pubDate>Fri, 27 May 2016 00:00:00 +0000</pubDate>
-				<link>https://www.ataps-mds.com/mds/announcements/2016-05-27-standard-outcome-measures/</link>
-				<guid isPermaLink="true">https://www.ataps-mds.com/mds/announcements/2016-05-27-standard-outcome-measures/</guid>
+				<pubDate>Fri, 27 May 2016 00:00:00 -0500</pubDate>
+				<link>http://0.0.0.0:4000/mds/announcements/2016-05-27-standard-outcome-measures/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/mds/announcements/2016-05-27-standard-outcome-measures/</guid>
 			</item>
 		
 			<item>
@@ -89,9 +111,9 @@
 &lt;p&gt;It is expected that data would be entered into the MDS once a referral has been obtained from a GP.&lt;/p&gt;
 </description>
 				
-				<pubDate>Fri, 26 Feb 2016 00:00:00 +0000</pubDate>
-				<link>https://www.ataps-mds.com/mds/announcements/2016-02-26-MHSRRA-Referrals-into-the-MDS/</link>
-				<guid isPermaLink="true">https://www.ataps-mds.com/mds/announcements/2016-02-26-MHSRRA-Referrals-into-the-MDS/</guid>
+				<pubDate>Fri, 26 Feb 2016 00:00:00 -0600</pubDate>
+				<link>http://0.0.0.0:4000/mds/announcements/2016-02-26-MHSRRA-Referrals-into-the-MDS/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/mds/announcements/2016-02-26-MHSRRA-Referrals-into-the-MDS/</guid>
 			</item>
 		
 			<item>
@@ -103,9 +125,9 @@
 &lt;p&gt;For non-PHNs only:&lt;br /&gt;The Department understands that the four non-PHN organisations may not be collecting data at the same level as PHNs. These organisations are not expected to establish new data collection systems for the remainder of 2015-16. They are however, expected to enter what data they are already collecting.&lt;/p&gt;
 </description>
 				
-				<pubDate>Wed, 27 Jan 2016 00:00:00 +0000</pubDate>
-				<link>https://www.ataps-mds.com/mds/announcements/2016-01-27-MHSRRA-uploads-to-the-ATAPS-MDS/</link>
-				<guid isPermaLink="true">https://www.ataps-mds.com/mds/announcements/2016-01-27-MHSRRA-uploads-to-the-ATAPS-MDS/</guid>
+				<pubDate>Wed, 27 Jan 2016 00:00:00 -0600</pubDate>
+				<link>http://0.0.0.0:4000/mds/announcements/2016-01-27-MHSRRA-uploads-to-the-ATAPS-MDS/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/mds/announcements/2016-01-27-MHSRRA-uploads-to-the-ATAPS-MDS/</guid>
 			</item>
 		
 			<item>
@@ -119,9 +141,9 @@
 &lt;p&gt;The documentation at &lt;a href=&quot;../../user-documentation/user-guide/reports/index.html&quot; target=&quot;_top&quot;&gt;https://ataps-mds.com/mds/user-documentation/user-guide/reports/&lt;/a&gt; has been updated to reflect theses changes.&lt;/p&gt;
 </description>
 				
-				<pubDate>Fri, 22 Jan 2016 00:00:00 +0000</pubDate>
-				<link>https://www.ataps-mds.com/mds/announcements/2016-01-22-Update-to-the-ATAPS-minimum-dataset-January-2016/</link>
-				<guid isPermaLink="true">https://www.ataps-mds.com/mds/announcements/2016-01-22-Update-to-the-ATAPS-minimum-dataset-January-2016/</guid>
+				<pubDate>Fri, 22 Jan 2016 00:00:00 -0600</pubDate>
+				<link>http://0.0.0.0:4000/mds/announcements/2016-01-22-Update-to-the-ATAPS-minimum-dataset-January-2016/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/mds/announcements/2016-01-22-Update-to-the-ATAPS-minimum-dataset-January-2016/</guid>
 			</item>
 		
 			<item>
@@ -135,9 +157,9 @@
 &lt;p&gt;If you have any questions about capturing or uploading MHSRRA data please contact &lt;a href=&quot;mailto:support@ataps-mds.com.&quot;&gt;support@ataps-mds.com.&lt;/a&gt;&lt;/p&gt;
 </description>
 				
-				<pubDate>Wed, 16 Dec 2015 00:00:00 +0000</pubDate>
-				<link>https://www.ataps-mds.com/mds/announcements/2015-12-16-mhsrra-updates/</link>
-				<guid isPermaLink="true">https://www.ataps-mds.com/mds/announcements/2015-12-16-mhsrra-updates/</guid>
+				<pubDate>Wed, 16 Dec 2015 00:00:00 -0600</pubDate>
+				<link>http://0.0.0.0:4000/mds/announcements/2015-12-16-mhsrra-updates/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/mds/announcements/2015-12-16-mhsrra-updates/</guid>
 			</item>
 		
 			<item>
@@ -149,9 +171,9 @@
 &lt;p&gt;Thank-you for your patience whilst this maintenance is carried out.&lt;/p&gt;
 </description>
 				
-				<pubDate>Fri, 11 Dec 2015 00:00:00 +0000</pubDate>
-				<link>https://www.ataps-mds.com/mds/announcements/2015-12-11-mds-outage/</link>
-				<guid isPermaLink="true">https://www.ataps-mds.com/mds/announcements/2015-12-11-mds-outage/</guid>
+				<pubDate>Fri, 11 Dec 2015 00:00:00 -0600</pubDate>
+				<link>http://0.0.0.0:4000/mds/announcements/2015-12-11-mds-outage/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/mds/announcements/2015-12-11-mds-outage/</guid>
 			</item>
 		
 			<item>
@@ -172,9 +194,9 @@
 &lt;p&gt;If required, identifiers for patients and providers can be bulk recoded within the MDS. Any PHN that requires recoding their client and/or provider identifiers can contact the ATAPS MDS support team (by sending an email to &lt;a href=&quot;mailto:support@ataps-mds.com&quot;&gt;support@ataps-mds.com&lt;/a&gt;) to discuss options and implications in more detail.&lt;/p&gt;
 </description>
 				
-				<pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
-				<link>https://www.ataps-mds.com/mds/announcements/2015-12-01-Assignment-and-management-of-client-and-provider-identifier-for-ATAPS-data-collection/</link>
-				<guid isPermaLink="true">https://www.ataps-mds.com/mds/announcements/2015-12-01-Assignment-and-management-of-client-and-provider-identifier-for-ATAPS-data-collection/</guid>
+				<pubDate>Tue, 01 Dec 2015 00:00:00 -0600</pubDate>
+				<link>http://0.0.0.0:4000/mds/announcements/2015-12-01-Assignment-and-management-of-client-and-provider-identifier-for-ATAPS-data-collection/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/mds/announcements/2015-12-01-Assignment-and-management-of-client-and-provider-identifier-for-ATAPS-data-collection/</guid>
 			</item>
 		
 			<item>
@@ -194,21 +216,9 @@
 &lt;p&gt;for further assistance.&lt;/p&gt;
 </description>
 				
-				<pubDate>Mon, 03 Aug 2015 00:00:00 +0000</pubDate>
-				<link>https://www.ataps-mds.com/mds/announcements/2015-08-03-mds-update/</link>
-				<guid isPermaLink="true">https://www.ataps-mds.com/mds/announcements/2015-08-03-mds-update/</guid>
-			</item>
-		
-			<item>
-				<title>ML to PHN Transition</title>
-				        
-				
-					<description>&lt;p&gt;Beginning the 1st of July a process to amalgamate Medicare Locals into 31 Primary Health Networks will begin. The MDS system will be made ready for the transition by that time. This &lt;a href=&quot;../../user-documentation/transition-of-mls-to-phns/index.html&quot;&gt;process&lt;/a&gt; is expected to be largely complete by early August. The data required for the MDS will remain largely the same, notwithstanding minor changes that occur when changes to programs are made which require new data to be captured. &lt;a href=&quot;../../user-documentation/transition-of-mls-to-phns/index.html&quot;&gt;More information &amp;gt;&amp;gt;&lt;/a&gt;&lt;/p&gt;
-</description>
-				
-				<pubDate>Mon, 22 Jun 2015 00:00:00 +0000</pubDate>
-				<link>https://www.ataps-mds.com/mds/announcements/2015-06-22-ML-to-PHN-Transition/</link>
-				<guid isPermaLink="true">https://www.ataps-mds.com/mds/announcements/2015-06-22-ML-to-PHN-Transition/</guid>
+				<pubDate>Mon, 03 Aug 2015 00:00:00 -0500</pubDate>
+				<link>http://0.0.0.0:4000/mds/announcements/2015-08-03-mds-update/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/mds/announcements/2015-08-03-mds-update/</guid>
 			</item>
 		
 	</channel>
