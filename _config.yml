@@ -49,4 +49,4 @@ defaults:
 #    values:
 #      layout: "mds-updates"
 source:      _source
-destination: _deploy
+destination: _site
